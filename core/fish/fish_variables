@@ -1,0 +1,4 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export DEVORA_API_KEY:SK\x2dDEVORA\x2d6i4afnhvcutwfryw9pgquhuvv051x7st
+SETUVAR fish_user_paths:/home/elliot/\x2ecargo/bin\x1e/home/elliot/go/bin\x1e/home/elliot/\x2elocal/bin\x1e/home/elliot/\x2eopencode/bin

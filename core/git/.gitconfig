@@ -1,0 +1,18 @@
+[user]
+	name = rokuroo171
+	email = mrakkakhairilazwar@gmail.com
+[core]
+	pager = cat
+[credential]
+	helper = store
+[safe]
+	directory = /home/elliot/Projects/anywhich
+	directory = /home/elliot/Projects/capiro
+	directory = /home/elliot/Projects/glean
+	directory = /home/elliot/Projects/
+	directory = /home/elliot/Projects/glean-web
+	directory = /home/elliot/Projects/remotion
+	directory = /home/elliot/Projects/portfolio
+	directory = /home/elliot/Projects/thinking-space/
+[init]
+	defaultBranch = main
